@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": "AAGA,EAAG;EACC,KAAK,EAHE,IAAI;;AAMf,aAAc;ECKZ,QAAQ,EAAE,MAAM;ECiBd,KAAK,EAAE,CAAC",
-"sources": ["style.scss","../../../../usr/local/rvm/gems/ruby-2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/general/_clearfix.scss","../../../../usr/local/rvm/gems/ruby-2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/general/_hacks.scss"],
-"names": [],
-"file": "style.css"
-}
